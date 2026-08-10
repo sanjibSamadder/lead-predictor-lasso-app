@@ -6,7 +6,7 @@ import joblib
 # Page setup
 # ----------------------------------------------------------------
 st.set_page_config(page_title="Lead & Income Predictor", page_icon="🧪", layout="centered")
-st.title("🧪 Lead & Income Predictor — Lasso (Test Build)")
+st.title("🧪 Lead & Income Predictor")
 st.caption("Test deployment of the Lasso regression model. Predicts Leads, Sum Income, and Sum Scrub Cost.")
 st.info("This is a separate test app — it does not affect your live LinearRegression app.")
 
